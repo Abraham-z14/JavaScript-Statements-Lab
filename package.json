@@ -1,0 +1,8 @@
+{
+  "name": "javascript-statements-lab",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node Index.js"
+  }
+}
